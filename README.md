@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+주석 없이 코드만으로 표현하고 싶고,
+늘 남에게 도움을 줄 수 있는 개발을 하고싶은,
+지식을 공유하는걸 좋아하고, 나누기를 원하는 개발자입니다.
+
 
 <!--
 **drate43/drate43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
